@@ -12,3 +12,7 @@ a{
     text-decoration: none;
     color: white;
 }
+
+strong{
+    color: rgb(255, 255, 255);
+}
